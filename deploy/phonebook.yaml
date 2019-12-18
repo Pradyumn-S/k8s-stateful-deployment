@@ -23,4 +23,4 @@ spec:
             - name: PORT
               value: "8080"
             - name: MONGODB_URL
-              value: "mongodb://mongo:27017/phonebook"
+              value: "mongodb://mongo-svc:27017/phonebook"
